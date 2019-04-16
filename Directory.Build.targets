@@ -1,0 +1,13 @@
+<Project>
+    <ItemGroup Label="Packages">
+        <PackageReference Update="Microsoft.EntityFrameworkCore" Version="2.1.0" />
+        <PackageReference Update="Microsoft.EntityFrameworkCore.Relational" Version="2.1.0" />
+        <PackageReference Update="Microsoft.NET.Test.Sdk" Version="15.5.0" />
+        <PackageReference Update="xunit" Version="2.3.1" />
+        <PackageReference Update="xunit.runner.visualstudio" Version="2.3.1" />
+    </ItemGroup>
+
+    <ItemGroup Label="Tools">
+        <DotNetCliToolReference Update="dotnet-xunit" Version="2.3.1" />
+    </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+C:\projects\github\EFCoreExtensions\samples\AutoModelSample\bin\Debug\netcoreapp2.0\AutoModelSample.deps.json
+C:\projects\github\EFCoreExtensions\samples\AutoModelSample\bin\Debug\netcoreapp2.0\AutoModelSample.runtimeconfig.json
+C:\projects\github\EFCoreExtensions\samples\AutoModelSample\bin\Debug\netcoreapp2.0\AutoModelSample.runtimeconfig.dev.json
+C:\projects\github\EFCoreExtensions\samples\AutoModelSample\bin\Debug\netcoreapp2.0\AutoModelSample.dll
+C:\projects\github\EFCoreExtensions\samples\AutoModelSample\bin\Debug\netcoreapp2.0\AutoModelSample.pdb
+C:\projects\github\EFCoreExtensions\samples\AutoModelSample\obj\Debug\netcoreapp2.0\AutoModelSample.csprojResolveAssemblyReference.cache
+C:\projects\github\EFCoreExtensions\samples\AutoModelSample\obj\Debug\netcoreapp2.0\AutoModelSample.csproj.CoreCompileInputs.cache
+C:\projects\github\EFCoreExtensions\samples\AutoModelSample\obj\Debug\netcoreapp2.0\AutoModelSample.AssemblyInfoInputs.cache
+C:\projects\github\EFCoreExtensions\samples\AutoModelSample\obj\Debug\netcoreapp2.0\AutoModelSample.AssemblyInfo.cs
+C:\projects\github\EFCoreExtensions\samples\AutoModelSample\obj\Debug\netcoreapp2.0\AutoModelSample.dll
+C:\projects\github\EFCoreExtensions\samples\AutoModelSample\obj\Debug\netcoreapp2.0\AutoModelSample.pdb

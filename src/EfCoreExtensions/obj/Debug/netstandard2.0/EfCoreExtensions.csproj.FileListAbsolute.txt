@@ -1,0 +1,9 @@
+C:\projects\github\EFCoreExtensions\src\EfCoreExtensions\bin\Debug\netstandard2.0\EfCoreExtensions.deps.json
+C:\projects\github\EFCoreExtensions\src\EfCoreExtensions\bin\Debug\netstandard2.0\EfCoreExtensions.dll
+C:\projects\github\EFCoreExtensions\src\EfCoreExtensions\obj\Debug\netstandard2.0\EfCoreExtensions.csprojResolveAssemblyReference.cache
+C:\projects\github\EFCoreExtensions\src\EfCoreExtensions\obj\Debug\netstandard2.0\EfCoreExtensions.csproj.CoreCompileInputs.cache
+C:\projects\github\EFCoreExtensions\src\EfCoreExtensions\obj\Debug\netstandard2.0\EfCoreExtensions.AssemblyInfoInputs.cache
+C:\projects\github\EFCoreExtensions\src\EfCoreExtensions\obj\Debug\netstandard2.0\EfCoreExtensions.AssemblyInfo.cs
+C:\projects\github\EFCoreExtensions\src\EfCoreExtensions\bin\Debug\netstandard2.0\EfCoreExtensions.pdb
+C:\projects\github\EFCoreExtensions\src\EfCoreExtensions\obj\Debug\netstandard2.0\EfCoreExtensions.dll
+C:\projects\github\EFCoreExtensions\src\EfCoreExtensions\obj\Debug\netstandard2.0\EfCoreExtensions.pdb
